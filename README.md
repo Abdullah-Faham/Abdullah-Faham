@@ -1,7 +1,6 @@
 # Hi, I'm Faham 👋
 
-Computer Science Student & Software Developer
-I build clean web applications, work with core programming logic, and explore modern tech stacks.
+MERN Stack Developer passionate about building scalable, user-friendly web applications. Currently expanding my skills in Agentic AI, including LLMs, AI agents, and automation frameworks, to create smarter, AI-powered solutions.
 
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/abdullah-faham-78b081440/) | [Email](mailto:fahamnoor67@gmail.com)
 
